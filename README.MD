@@ -44,13 +44,4 @@
 2. **MediBot** – HIPAA-compliant healthcare chatbot ([Demo](#))  
 3. **TurboAPI** – High-performance Node.js backend (10k RPS)  
 
----
-
-## 📫 **Let’s Build the Future**  
-🔗 **Portfolio**: [manmehta.ai](#)  
-📧 **Email**: hello@manmehta.ai  
-💼 **LinkedIn**: [Mann Mehta](#)  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-
 *"From AI models to pixel-perfect UIs — I own the stack."*  
