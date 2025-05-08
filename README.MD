@@ -45,5 +45,3 @@
 3. **TurboAPI** – High-performance Node.js backend (10k RPS)  
 
 *"From AI models to pixel-perfect UIs — I own the stack."*  
-
-Thanks
