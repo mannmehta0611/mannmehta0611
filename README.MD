@@ -40,8 +40,8 @@
 ---
 
 ## 🛠️ **Recent Projects**  
-1. **DocuMind AI** – LLM-powered document processor with RAG ([GitHub](#))  
-2. **MediBot** – HIPAA-compliant healthcare chatbot ([Demo](#))  
+1. **DocuMind AI** – LLM-powered document processor with RAG
+2. **MediBot** – HIPAA-compliant healthcare chatbot
 3. **TurboAPI** – High-performance Node.js backend (10k RPS)  
 
 *"From AI models to pixel-perfect UIs — I own the stack."*  
